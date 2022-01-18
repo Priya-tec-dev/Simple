@@ -10,7 +10,7 @@ $ npm install @priya_dev/simple
 const simple = require("@priya_dev/simple");
 
 simple(35);
-//=> 35'C is 99'F
+//=> 35+'\xB0C is 99+'\xB0F.'   
 
 simple('35');
 //=> Uncaught TypeError: Simple wants a number!
