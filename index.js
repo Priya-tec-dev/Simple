@@ -1,5 +1,5 @@
 module.exports = function simple(string) {
-  if (typeof string !== "int") throw new TypeError("Simple wants a number!");
+  if (typeof string !== "number") throw new TypeError("Simple wants a number!");
 	var celsius =0
 	var celsius = string;
 	celsius *= 9/5;
