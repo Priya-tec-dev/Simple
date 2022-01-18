@@ -1,7 +1,7 @@
 {
   "name": "@priya_dev/simple",
-  "version": "2.0.0",
-  "description": "Converts C to F",
+  "version": "7.0.0",
+  "description": "Converts Celcius to Fahrenheit",
   "license": "MIT",
   "repository": "Priya-tec-dev/simple",
   "main": "index.js",
