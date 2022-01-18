@@ -1,0 +1,15 @@
+{
+  "name": "@priya_dev/simple",
+  "version": "2.0.0",
+  "description": "Converts C to F",
+  "license": "MIT",
+  "repository": "Priya-tec-dev/simple",
+  "main": "index.js",
+  "author": "Priya",
+  "keywords": [
+    "simple",
+    "npm",
+    "package",
+    "Priya-tec-dev"
+  ]
+}
